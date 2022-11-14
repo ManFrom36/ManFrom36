@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ManFrom36
-- 👀 I’m interested in create apps for remote management for all OS
+- 
+- 👀 I’m interested in create remote management apps for all OS
 
 <!---
 ManFrom36/ManFrom36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
